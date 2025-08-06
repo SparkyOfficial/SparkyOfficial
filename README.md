@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/sparkychannel"><img src="https://img.shields.io/badge/Telegram-%40sparkychannel-2CA5E0?logo=telegram&logoColor=white"/></a>
-  <a href="https://youtube.com/@ProSto4eloVek"><img src="https://img.shields.io/badge/YouTube-ProSto4eloVek-red?logo=youtube&logoColor=white"/></a>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/AndreyBudilnikov"><img src="https://img.shields.io/badge/Telegram-%40Telegram-2CA5E0?logo=telegram&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@SparkyOfficialYouTube"><img src="https://img.shields.io/badge/YouTube-Sparky-red?logo=youtube&logoColor=white"/></a>
+  <a href="mailto:sparkyofficialmail@proton.me"><img src="https://img.shields.io/badge/Email-Contact-blue?logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -30,11 +30,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProSto4eloVek&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sparky&show_icons=true&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProSto4eloVek&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sparky&layout=compact&theme=github_dark" />
 </p>
 
 ---
