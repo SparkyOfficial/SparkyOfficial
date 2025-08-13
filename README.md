@@ -49,8 +49,8 @@
 
 ### 🤝 Давайте общаться
 
--   **Telegram:** [@YourTelegram](https://t.me/YourTelegram) — здесь я делюсь мыслями и веду "Конституцию Спарки".
--   **YouTube:** [My YouTube Channel](https://www.youtube.com/channel/YourChannelID) — здесь мои разоблачения и творчество.
+-   **Telegram:** [@YourTelegram](https://t.me/AndreyBudilnikov) — здесь я делюсь мыслями и веду "Конституцию Спарки".
+-   **YouTube:** [My YouTube Channel](https://www.youtube.com/channel/SparkyOfficialYouTube) — здесь мои разоблачения и творчество.
 -   **Email:** `andriy.budilnikov[at]email.com` — для серьезных предложений и коллабораций.
 
 <p align="center">
