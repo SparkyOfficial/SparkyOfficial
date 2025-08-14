@@ -28,13 +28,14 @@
 
 Я свободно владею широким спектром инструментов и технологий. Вот некоторые из них:
 
-| Категория                   | Технологии                                                                                                                              |
-| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| **Языки Программирования**      | `Java`, `Kotlin`, `Python`, `C/C++`, `C#`, `Haskell`, `Ruby`, `Scala`, `LaTeX`                                                           |
-| **Minecraft Development**   | `Spigot API`, `Paper API`, `BungeeCord`, `Velocity`, `NMS`, `Packet-магия`, `Maven`, `Gradle`                                               |
-| **Фреймворки и Библиотеки** | `Spring`, `Qt`, `OpenCV`, **(ML/AI):** `Keras`, `PyTorch`, `TensorFlow`, **(Data Science):** `NumPy`, `Pandas`, `Matplotlib`              |
-| **Базы Данных и DevOps**      | `MySQL`, `PostgreSQL`, `SQLite`, `MongoDB`, `Docker`, `Kubernetes`, `Git`, `CMake`, `Jenkins`, `Cloudflare`, `AWS`, `Google Cloud`      |
-| **Инструменты и ОС**        | `IntelliJ IDEA`, `PyCharm`, `VS Code`, `Android Studio`, `Ansys`, `Femap`, **(OS):** `Debian`, `Ubuntu`, `Kali Linux`, `Red Hat`, `Windows` |
+| Категория                   | Технологии                                                                                                                                                                                                                                                                                                                              |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Языки Программирования**  | `Java`, `Kotlin`, `Python`, `C`, `C++`, `C#`, `Go`, `Rust`, `Swift`, `TypeScript`, `JavaScript`, `PHP`, `Haskell`, `Ruby`, `Scala`, `Perl`, `Bash`, `PowerShell`, `Lua`, `LaTeX`, `R`, `Dart`                                                                                                                                           |
+| **Minecraft Development**   | `Spigot API`, `Paper API`, `BungeeCord`, `Velocity`, `Fabric API`, `Forge Modding`, `NMS`, `ProtocolLib`, `Packet-магия`, `Maven`, `Gradle`, `Adventure API`, `WorldEdit API`                                                                                                                                                           |
+| **Фреймворки и Библиотеки** | `Spring`, `Spring Boot`, `Hibernate`, `Qt`, `OpenCV`, **ML/AI:** `Keras`, `PyTorch`, `TensorFlow`, `Scikit-learn`, `XGBoost`, **Data Science:** `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`, `Plotly`, `D3.js`, **Web:** `React`, `Vue.js`, `Next.js`, `Express.js`, `FastAPI`, `Flask`, **Game Dev:** `Unity`, `Unreal Engine`, `Godot` |
+| **Базы Данных и DevOps**    | `MySQL`, `PostgreSQL`, `SQLite`, `MongoDB`, `Redis`, `Cassandra`, `ElasticSearch`, `InfluxDB`, `Neo4j`, `Docker`, `Podman`, `Kubernetes`, `Helm`, `Terraform`, `Ansible`, `Git`, `GitHub Actions`, `GitLab CI/CD`, `Jenkins`, `CMake`, `Make`, `Nginx`, `Apache`, `Cloudflare`, `AWS`, `Google Cloud`, `Azure`                          |
+| **Инструменты и ОС**        | `IntelliJ IDEA`, `PyCharm`, `WebStorm`, `Rider`, `CLion`, `VS Code`, `Eclipse`, `Android Studio`, `Xcode`, `Ansys`, `Femap`, `Figma`, `Adobe XD`, `Postman`, **OS:** `Debian`, `Ubuntu`, `Arch Linux`, `Kali Linux`, `Fedora`, `Red Hat`, `Windows`, `macOS`                                                                            |
+| **Прочее**                  | `REST`, `GraphQL`, `gRPC`, `WebSockets`, `OAuth 2.0`, `JWT`, `OpenAPI/Swagger`, `Unit Testing` (`JUnit`, `pytest`, `NUnit`), `TDD`, `BDD`, `Clean Architecture`, `Microservices`, `Event-Driven Architecture`, `Message Brokers` (`RabbitMQ`, `Kafka`)                                                                                  |
 
 ---
 
@@ -49,9 +50,9 @@
 
 ### 🤝 Давайте общаться
 
--   **Telegram:** [@YourTelegram](https://t.me/AndreyBudilnikov) — здесь я делюсь мыслями и веду "Конституцию Спарки".
--   **YouTube:** [My YouTube Channel](https://www.youtube.com/channel/SparkyOfficialYouTube) — здесь мои разоблачения и творчество.
--   **Email:** `andriy.budilnikov[at]email.com` — для серьезных предложений и коллабораций.
+-   **Telegram:** [@Telegram](https://t.me/AndreyBudilnikov) — здесь я делюсь мыслями и веду "Конституцию Спарки".
+-   **YouTube:** [My YouTube](https://www.youtube.com/channel/SparkyOfficialYouTube) — здесь мои разоблачения и творчество.
+-   **Email:** `sparkyofficialmail@proton.me` — для серьезных предложений и коллабораций.
 
 <p align="center">
   <a href="https://t.me/YourTelegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
