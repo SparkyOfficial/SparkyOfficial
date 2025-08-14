@@ -55,6 +55,6 @@
 -   **Email:** `sparkyofficialmail@proton.me` — для серьезных предложений и коллабораций.
 
 <p align="center">
-  <a href="https://t.me/YourTelegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/channel/YourChannelID"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://t.me/AndreyBudilkonov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/channel/SparkyOfficialYouTube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
