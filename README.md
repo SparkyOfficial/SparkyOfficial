@@ -9,3 +9,10 @@
 **Контакты**
 - Telegram: @AndrewBudilnikov
 - Discord: sparkyofficial
+## 📊 GitHub Stats
+
+![Sparky's GitHub stats](https://github-readme-stats.vercel.app/api?username=SparkyOfficial&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SparkyOfficial&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SparkyOfficial&theme=tokyonight)
