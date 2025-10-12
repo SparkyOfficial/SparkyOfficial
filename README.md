@@ -18,6 +18,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 #### ⚙️ Фреймворки и Технологии
 
@@ -40,13 +41,57 @@
     ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
     ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
     ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-    
----
-### 🏆 Избранные проекты
 
+---
+
+### 🏆 Мои проекты
+
+### 🎮 Game Development и Графика
 <table>
 <tr>
+<td width="100%">
+<h3 align="center">SparkyEngine-2</h3>
+<div align="center">
+<p>Мощный 3D-игровой движок, написанный на C++ с использованием графического API <b>Vulkan</b> для максимальной производительности. Проект включает демо-игру в жанре платформер.</p>
+<p>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/Vulkan-9C27B0?style=flat&logo=vulkan&logoColor=white" alt="Vulkan"/>
+</p>
+<a href="https://github.com/SparkyOfficial/SparkyEngine-2"><b>Посмотреть на GitHub →</b></a>
+</div>
+</td>
+</tr>
+</table>
 
+### 🛠️ Backend и Распределенные Системы
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">QuantumSparkyVision</h3>
+<div align="center">
+<p>Децентрализованный P2P-оркестратор приложений, который заменяет традиционную модель "master-worker" на полностью равноправную сеть узлов.</p>
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+</p>
+<a href="https://github.com/SparkyOfficial/QuantumSparkyVision"><b>Посмотреть на GitHub →</b></a>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">NexusStream-Spark</h3>
+<div align="center">
+<p>Платформа для анализа потоков событий в реальном времени с визуальным интерфейсом для выявления сложных, нелинейных зависимостей.</p>
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+</p>
+<a href="https://github.com/SparkyOfficial/NexusStream-Spark"><b>Посмотреть на GitHub →</b></a>
+</div>
+</td>
+</tr>
+</table>
+
+### 💡 Инструменты и Аналитические Платформы
+<table>
+<tr>
 <td width="50%">
 <h3 align="center">HyperSim Network Simulator</h3>
 <div align="center">
@@ -57,7 +102,6 @@
 <a href="https://github.com/SparkyOfficial/HyperSim-Sparky"><b>Посмотреть на GitHub →</b></a>
 </div>
 </td>
-
 <td width="50%">
 <h3 align="center">SparkyVision Data Flow</h3>
 <div align="center">
@@ -69,10 +113,8 @@
 <a href="https://github.com/SparkyOfficial/SparkyVision"><b>Посмотреть на GitHub →</b></a>
 </div>
 </td>
-
 </tr>
 <tr>
-
 <td width="50%">
 <h3 align="center">Pytopath Trading Framework</h3>
 <div align="center">
@@ -85,7 +127,22 @@
 <a href="https://github.com/SparkyOfficial/pytradepath"><b>Посмотреть на GitHub →</b></a>
 </div>
 </td>
+<td width="50%">
+<h3 align="center">jCodeGuardian</h3>
+<div align="center">
+<p>Продвинутая платформа для комплексного статического анализа Java-кода, выходящая за рамки стандартных линтеров.</p>
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+</p>
+<a href="https://github.com/SparkyOfficial/jCodeGuardian-Sparky"><b>Посмотреть на GitHub →</b></a>
+</div>
+</td>
+</tr>
+</table>
 
+### 🧱 Minecraft-разработка
+<table>
+<tr>
 <td width="50%">
 <h3 align="center">MegaCreative</h3>
 <div align="center">
@@ -98,30 +155,46 @@
 <a href="https://github.com/SparkyOfficial/MegaCreative"><b>Посмотреть на GitHub →</b></a>
 </div>
 </td>
-
+<td width="50%">
+<h3 align="center">JSparkyServerGUI</h3>
+<div align="center">
+<p>Графический лаунчер на Kotlin и JavaFX для удобного управления и настройки Minecraft-сервера.</p>
+<p>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
+<img src="https://img.shields.io/badge/JavaFX-007396.svg?style=flat" alt="JavaFX"/>
+</p>
+<a href="https://github.com/SparkyOfficial/jsparkyservergui"><b>Посмотреть на GitHub →</b></a>
+</div>
+</td>
 </tr>
 </table>
 
-### 🎮 Серия игровых движков SparkyEngine
-
-Набор низкоуровневых игровых движков, демонстрирующих работу с графическим API **Vulkan** для достижения максимальной производительности рендеринга.
-<p>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/Vulkan-9C27B0?style=flat&logo=vulkan&logoColor=white" alt="Vulkan"/>
-</p>
+<br>
 
 <details>
-<summary><b>Другие примечательные проекты</b></summary>
+<summary><b>🔬 Другие проекты, симуляции и эксперименты</b></summary>
 <br>
 <ul>
     <li>
-        <b><a href="https://github.com/SparkyOfficial/OpenHousing">OpenHousing</a></b>: Open-source Minecraft-плагин, вдохновленный Hypixel Housing. 
+        <b><a href="https://github.com/SparkyOfficial/Gravity-Particle-Simulation">Gravity Particle Simulation</a></b>: Реализация симуляции гравитации частиц на 5 языках (C++, Python, Java, Go, Rust) для сравнения производительности.
     </li>
     <li>
-        <b><a href="https://github.com/SparkyOfficial/FoodExpress">FoodExpress</a></b>: Full-stack прототип приложения для сервиса доставки еды.
+        <b><a href="https://github.com/SparkyOfficial/MazeGenerator-Sparky">MazeGenerator</a></b>: Генератор лабиринтов с функцией поиска пути, реализованный на C#.
     </li>
     <li>
-        <b><a href="https://github.com/SparkyOfficial/jsparkyservergui">JSparkyServerGUI</a></b>: Графический лаунчер на Java для управления Minecraft-сервером.
+        <b><a href="https://github.com/SparkyOfficial/Big-Crunch-Simulation-XD">Big Crunch Simulation</a></b>: C++ симуляция гипотетического сценария "Большого сжатия" Вселенной.
+    </li>
+    <li>
+        <b><a href="https://github.com/SparkyOfficial/FoodExpress">FoodExpress</a></b>: Full-stack прототип приложения для сервиса доставки еды на Java (Spring).
+    </li>
+    <li>
+        <b><a href="https://github.com/SparkyOfficial/Sparky-SimpleHTTPServer">SimpleHTTPServer</a></b>: Базовый HTTP-сервер, написанный с нуля на C++.
+    </li>
+    <li>
+        <b><a href="https://github.com/SparkyOfficial/auto-git-commit-Sparky">Auto Git Commit</a></b>: Утилита на Node.js для автоматического коммита изменений при выходе из программы.
+    </li>
+     <li>
+        <b><a href="https://github.com/SparkyOfficial/Software-Viber-Telegram-Autoresponse">Viber/Telegram Autoresponse</a></b>: Приложение на C++ для автоматических ответов в мессенджерах на основе конфигурационного файла.
     </li>
 </ul>
 </details>
