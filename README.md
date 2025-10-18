@@ -676,7 +676,7 @@
 <td width="50%">
 <h3 align="center">Java_Task_1</h3>
 <div align="center">
-<p>Сборник различных задач программирования на Java, созданных для начинающих с целью изучения и практики концепций Java.</p>
+<p>Ежедневная Java задача, рубрика надоела.</p>
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
@@ -686,7 +686,7 @@
 <td width="50%">
 <h3 align="center">DailyJava_13.10.2025</h3>
 <div align="center">
-<p>Ежедневные Java задачи и вызовы для развития навыков, включая задачу про проверку палиндромов с игнорированием регистра и пунктуации.</p>
+<p>Ежедневная Java задача, рубрика надоела.</p>
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
@@ -701,7 +701,7 @@
 <td width="50%">
 <h3 align="center">PolyCraft</h3>
 <div align="center">
-<p>Экспериментальный Minecraft плагин с полиморфными игровыми механиками и расширенным функционалом.</p>
+<p>Экспериментальный Minecraft плагин с поддержкой JavaScript.</p>
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
