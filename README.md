@@ -12,13 +12,13 @@
 
 ## 🎯 Обо мне
 
-Я **Java-разработчик** и **энтузиаст C++**, специализирующийся на создании высокопроизводительных backend-систем, игровых движков, распределённых архитектур и комплексных игровых плагинов. Люблю элегантные архитектурные решения, оптимизацию до последней миллисекунды и превращение сложных идей в работающий, масштабируемый код.
+Я **Java-разработчик** и **энтузиаст C++/Rust**, специализирующийся на создании высокопроизводительных backend-систем, игровых движков, распределённых архитектур и комплексных игровых плагинов. Люблю элегантные архитектурные решения, оптимизацию до последней миллисекунды и превращение сложных идей в работающий, масштабируемый код.
 
 **Ключевые направления:**
-- 🎮 Game Development & Graphics (C++, Vulkan, Unreal)
+- 🎮 Game Development & Graphics (C++, Rust, Vulkan, Bevy)
 - 🚀 Distributed Systems & Microservices
 - 📊 Real-time Data Processing & Analytics
-- 🔧 High-Performance Backend Systems
+- 🔧 High-Performance Computing & Low-level Optimization
 - ⛓️ Blockchain & Decentralized Solutions
 
 ---
@@ -29,13 +29,13 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Второстепенные языки
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
 ### Backend & Web Frameworks
@@ -43,33 +43,21 @@
 ![Ktor](https://img.shields.io/badge/Ktor-%23007EFF.svg?style=for-the-badge&logo=ktor&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### Frontend & UI
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396.svg?style=for-the-badge)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 
 ### Базы данных & Cache
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
 ### GameDev & Graphics
 ![Vulkan](https://img.shields.io/badge/Vulkan-9C27B0?style=for-the-badge&logo=vulkan&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unreal%20engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Bevy](https://img.shields.io/badge/Bevy-232a31?style=for-the-badge)
 ![Raylib](https://img.shields.io/badge/raylib-FFCC00?style=for-the-badge)
 
-### Minecraft API & Tools
-![PaperMC](https://img.shields.io/badge/PaperMC-gray?style=for-the-badge)
-![Bukkit](https://img.shields.io/badge/Bukkit-FF6600?style=for-the-badge)
 
 ### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -83,7 +71,7 @@
 
 ## 🏆 Избранные проекты
 
-### 🎮 Game Development & Graphics
+### 🎮 Game Engines & 3D Graphics
 <table>
 <tr>
 <td width="100%">
@@ -104,14 +92,41 @@
 <table>
 <tr>
 <td width="100%">
+<h3 align="center">mineland-forsaken</h3>
+<div align="center">
+<p>Асимметричная мультиплеерная 3D-хоррор игра, созданная с нуля на Rust и игровом движке Bevy. Проект демонстрирует современные подходы к разработке игр на Rust.</p>
+<p>
+<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust"/>
+<img src="https://img.shields.io/badge/Bevy-232a31?style=flat" alt="Bevy"/>
+</p>
+<a href="https://github.com/SparkyOfficial/mineland-forsaken"><b>Посмотреть на GitHub →</b></a>
+</div>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
 <h3 align="center">GModsaken</h3>
 <div align="center">
-<p>Асимметричный режим ужаса для Garry's Mod, вдохновленный культовым режимом Forsaken из Roblox. Один игрок становится охотником с боевым оружием, остальные — жертвами, ищущими спасение. Требует стратегию, сотрудничество и тактику выживания.</p>
+<p>Асимметричный режим ужаса для Garry's Mod, вдохновленный культовым режимом Forsaken из Roblox. Требует стратегию, тактику и сотрудничество для выживания.</p>
 <p>
 <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white" alt="Lua"/>
 <img src="https://img.shields.io/badge/Garry's%20Mod-FFB800?style=flat" alt="Garry's Mod"/>
 </p>
-<a href="https://github.com/SparkyOfficial/gmodsaken"><b>Посмотреть на GitHub →</b></a>
+<a href="https://github.com/SparkyOfficial/gmodsaken"><b>GitHub →</b></a>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">epiCBattle</h3>
+<div align="center">
+<p>Боевая 2D-игра на C++ с использованием библиотеки raylib, где игроки сражаются на динамичных аренах. Акцент на простой, но увлекательный геймплей.</p>
+<p>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/raylib-FFCC00?style=flat" alt="raylib"/>
+</p>
+<a href="https://github.com/SparkyOfficial/epiCBattle"><b>GitHub →</b></a>
 </div>
 </td>
 </tr>
@@ -119,27 +134,28 @@
 
 ---
 
-### 🛠️ Backend & Distributed Systems
+### 🚀 High-Performance Backend & Distributed Systems
+
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">QuantumSparkyVision</h3>
+<h3 align="center">sparkyflow</h3>
 <div align="center">
-<p>Полностью децентрализованный P2P-оркестратор приложений, заменяющий модель "master-worker" на равноправную сеть узлов. Каждый узел участвует в принятии решений и распределении нагрузки.</p>
+<p>Высокопроизводительная C++ библиотека для потоковой обработки данных в реальном времени. Использует lock-free и zero-copy подходы для максимальной пропускной способности и минимальных задержек.</p>
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </p>
-<a href="https://github.com/SparkyOfficial/QuantumSparkyVision"><b>GitHub →</b></a>
+<a href="https://github.com/SparkyOfficial/sparkyflow"><b>GitHub →</b></a>
 </div>
 </td>
 <td width="50%">
-<h3 align="center">NexusStream-Spark</h3>
+<h3 align="center">SparkyFabric</h3>
 <div align="center">
-<p>Платформа для анализа потоков событий в реальном времени с выявлением сложных, нелинейных зависимостей через визуальный интерфейс. Поддерживает обработку миллионов событий в секунду.</p>
+<p>Фреймворк распределенного планировщика задач нового поколения на Java, построенный на современных облачных принципах для надежного и масштабируемого выполнения асинхронных задач.</p>
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
-<a href="https://github.com/SparkyOfficial/NexusStream-Spark"><b>GitHub →</b></a>
+<a href="https://github.com/SparkyOfficial/SparkyFabric"><b>GitHub →</b></a>
 </div>
 </td>
 </tr>
@@ -147,6 +163,41 @@
 
 <table>
 <tr>
+<td width="50%">
+<h3 align="center">RediCraft</h3>
+<div align="center">
+<p>Высокопроизводительное распределённое in-memory key-value хранилище на C++, специально созданное для разработки Minecraft плагинов. Предоставляет Redis-подобный функционал.</p>
+<p>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
+</p>
+<a href="https://github.com/SparkyOfficial/RediCraft"><b>GitHub →</b></a>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">MicroHydra</h3>
+<div align="center">
+<p>Минималистичная и сверхбыстрая key-value база данных на C, спроектированная для GameDev. Совместима с Rust, плагинами Minecraft и серверами Garry's Mod.</p>
+<p>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C"/>
+</p>
+<a href="https://github.com/SparkyOfficial/MicroHydra"><b>GitHub →</b></a>
+</div>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">QuantumSparkyVision</h3>
+<div align="center">
+<p>Полностью децентрализованный P2P-оркестратор приложений, заменяющий модель "master-worker" на равноправную сеть узлов для распределения нагрузки и принятия решений.</p>
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+</p>
+<a href="https://github.com/SparkyOfficial/QuantumSparkyVision"><b>GitHub →</b></a>
+</div>
+</td>
 <td width="50%">
 <h3 align="center">DistFS-Sparky</h3>
 <div align="center">
@@ -157,18 +208,9 @@
 <a href="https://github.com/SparkyOfficial/DistFS-Sparky"><b>GitHub →</b></a>
 </div>
 </td>
-<td width="50%">
-<h3 align="center">LockFree-Sparky</h3>
-<div align="center">
-<p>Высокопроизводительная C++ библиотека потокобезопасных структур данных без блокировок, использующих атомарные операции вместо мьютексов для минимальной задержки.</p>
-<p>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
-</p>
-<a href="https://github.com/SparkyOfficial/LockFree-Sparky"><b>GitHub →</b></a>
-</div>
-</td>
 </tr>
 </table>
+
 
 ---
 
@@ -178,7 +220,7 @@
 <td width="33%">
 <h3 align="center">MegaCreative</h3>
 <div align="center">
-<p>Высокопроизводительный плагин для творческих серверов с системой участков и мини-игр с интегрированной поддержкой Redis для кластеризации.</p>
+<p>Высокопроизводительный плагин для творческих серверов с системой участков и мини-игр. Интегрирована поддержка Redis для кластеризации.</p>
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis"/>
@@ -189,7 +231,7 @@
 <td width="33%">
 <h3 align="center">MCEconomics</h3>
 <div align="center">
-<p>Комплексный плагин экономики для Minecraft-серверов с банкингом, налогами, криптовалютой и продвинутой системой торговли.</p>
+<p>Комплексный плагин экономики с банкингом, налогами, криптовалютой и продвинутой системой торговли для Minecraft-серверов.</p>
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
@@ -199,7 +241,7 @@
 <td width="33%">
 <h3 align="center">Prison-NEO</h3>
 <div align="center">
-<p>Суперпроизводительный плагин для тюремных серверов с системой шахт, уровней и экономики. Поддерживает массовые сессии без падения производительности.</p>
+<p>Суперпроизводительный плагин для тюремных серверов с системой шахт, уровней и экономики. Поддерживает массовые сессии без падения TPS.</p>
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
@@ -214,7 +256,7 @@
 <td width="50%">
 <h3 align="center">xcraft</h3>
 <div align="center">
-<p>Расширенная библиотека для разработки Minecraft плагинов, превосходящая стандартный Bukkit API удобством и мощностью. 100+ хелпер-функций и утилит.</p>
+<p>Расширенная библиотека для разработки плагинов Minecraft, превосходящая стандартный Bukkit API по удобству и мощности. Содержит 100+ хелпер-функций.</p>
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
@@ -237,28 +279,27 @@
 
 ---
 
-### 💡 Инструменты & Аналитические платформы
+### 💡 Инструменты и Платформы
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">HyperSim Network Simulator</h3>
+<h3 align="center">GitScope</h3>
 <div align="center">
-<p>Симулятор/эмулятор сетей для тестирования и визуальной оценки алгоритмов маршрутизации и сетевых протоколов с поддержкой топологий и метрик производительности.</p>
+<p>Мощный десктопный и мобильный клиент для анализа данных GitHub с уникальными "killer features", отсутствующими на самом сайте GitHub.</p>
 <p>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"/>
 </p>
-<a href="https://github.com/SparkyOfficial/HyperSim-Sparky"><b>GitHub →</b></a>
+<a href="https://github.com/SparkyOfficial/GitScope"><b>GitHub →</b></a>
 </div>
 </td>
 <td width="50%">
-<h3 align="center">SparkyVision Data Flow</h3>
+<h3 align="center">jBeacon</h3>
 <div align="center">
-<p>Java-приложение для создания, визуализации и выполнения исполняемых диаграмм потоков данных (data flow). Идеально для ETL и обработки конвейеров.</p>
+<p>Сервис мониторинга сайтов, который регулярно "пингует" URL-адреса. Отправляет уведомления в Email/Telegram, если сайт не отвечает, медленный или возвращает ошибку.</p>
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/JavaFX-007396.svg?style=flat" alt="JavaFX"/>
 </p>
-<a href="https://github.com/SparkyOfficial/SparkyVision"><b>GitHub →</b></a>
+<a href="https://github.com/SparkyOfficial/jBeacon-jtool2"><b>GitHub →</b></a>
 </div>
 </td>
 </tr>
@@ -267,13 +308,13 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">jCodeGuardian</h3>
+<h3 align="center">HyperSim Network Simulator</h3>
 <div align="center">
-<p>Продвинутая платформа для комплексного статического анализа Java-кода, выходящая далеко за рамки стандартных линтеров типа Checkstyle или PMD.</p>
+<p>Симулятор сетей для тестирования и визуальной оценки алгоритмов маршрутизации и сетевых протоколов с поддержкой различных топологий и метрик производительности.</p>
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </p>
-<a href="https://github.com/SparkyOfficial/jCodeGuardian-Sparky"><b>GitHub →</b></a>
+<a href="https://github.com/SparkyOfficial/HyperSim-Sparky"><b>GitHub →</b></a>
 </div>
 </td>
 <td width="50%">
@@ -282,8 +323,6 @@
 <p>Комплексный фреймворк для бэктестинга и алгоритмического трейдинга на Python с поддержкой множества стратегий и источников данных.</p>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/NumPy-013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Pandas-150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
 </p>
 <a href="https://github.com/SparkyOfficial/pytradepath"><b>GitHub →</b></a>
 </div>
@@ -291,54 +330,29 @@
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">SparkyMockAPI</h3>
-<div align="center">
-<p>Комплексная платформа для создания, управления и тестирования API-эндпоинтов без реального бэкенда. Поддерживает статические и динамические ответы.</p>
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-</p>
-<a href="https://github.com/SparkyOfficial/SparkyMockAPI"><b>GitHub →</b></a>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Lightweight Feature Flag System</h3>
-<div align="center">
-<p>Open-source альтернатива LaunchDarkly для управления feature flags в масштабе. Контролируйте функции в реальном времени без переразвёртывания.</p>
-<p>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
-<a href="https://github.com/SparkyOfficial/Lightweight-Feature-Flag"><b>GitHub →</b></a>
-</div>
-</td>
-</tr>
-</table>
-
 ---
 
-### 📚 Библиотеки & Фреймворки
+### 📚 Библиотеки и Утилиты
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">SparkyLib</h3>
+<h3 align="center">ctool2</h3>
 <div align="center">
-<p>Комплексный набор модулей для удобной разработки игровой логики на Java: UI-система, event system, task scheduler, частицы, ECS и network RPC.</p>
+<p>Кросс-платформенная библиотека асинхронного ввода-вывода на C++ для создания высокопроизводительных сетевых приложений с интуитивно понятным API.</p>
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </p>
-<a href="https://github.com/SparkyOfficial/SparkyLib"><b>GitHub →</b></a>
+<a href="https://github.com/SparkyOfficial/ctool2"><b>GitHub →</b></a>
 </div>
 </td>
 <td width="50%">
-<h3 align="center">XSparkyProject</h3>
+<h3 align="center">DB-Backup CLI Utility</h3>
 <div align="center">
-<p>Комплексная Kotlin-библиотека, объединяющая 10 мощных функций в одной: утилиты, парсеры, валидаторы и многое другое.</p>
+<p>Утилита командной строки для резервного копирования баз данных (PostgreSQL, MySQL) с опциональным сжатием и выгрузкой в облачные хранилища.</p>
 <p>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
 </p>
-<a href="https://github.com/SparkyOfficial/XSparkyProject"><b>GitHub →</b></a>
+<a href="https://github.com/SparkyOfficial/DB-Backup-CLI-Utility"><b>GitHub →</b></a>
 </div>
 </td>
 </tr>
@@ -347,80 +361,15 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">SparkyLibX</h3>
+<h3 align="center">LockFree-Sparky</h3>
 <div align="center">
-<p>Продвинутая математическая и геометрическая библиотека для Minecraft плагинов с поддержкой сложных вычислений и трансформаций.</p>
+<p>Высокопроизводительная C++ библиотека потокобезопасных структур данных без блокировок, использующих атомарные операции для минимальной задержки.</p>
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </p>
-<a href="https://github.com/SparkyOfficial/SparkyLibX"><b>GitHub →</b></a>
+<a href="https://github.com/SparkyOfficial/LockFree-Sparky"><b>GitHub →</b></a>
 </div>
 </td>
-<td width="50%">
-<h3 align="center">MinFrameworkCFG</h3>
-<div align="center">
-<p>Простая, но мощная библиотека для централизованного управления конфигурациями с поддержкой YAML, JSON, переменных окружения и горячей перезагрузки.</p>
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-</p>
-<a href="https://github.com/SparkyOfficial/MinFrameworkCFG"><b>GitHub →</b></a>
-</div>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">kprops</h3>
-<div align="center">
-<p>Kotlin-библиотека для загрузки `.properties` файлов и доступа к значениям как к полям объекта с полной типизацией.</p>
-<p>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
-</p>
-<a href="https://github.com/SparkyOfficial/kprops"><b>GitHub →</b></a>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">ResourceLocker</h3>
-<div align="center">
-<p>Лёгкая Java-библиотека с пулом блокировок по ключам для синхронизации доступа к ресурсам в многопоточной среде.</p>
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-</p>
-<a href="https://github.com/SparkyOfficial/resource-locker"><b>GitHub →</b></a>
-</div>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">FusionUI</h3>
-<div align="center">
-<p>Декларативный кросс-платформенный UI-фреймворк для .NET, вдохновленный Jetpack Compose и SwiftUI с полной типизацией.</p>
-<p>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"/>
-</p>
-<a href="https://github.com/SparkyOfficial/FusionUI"><b>GitHub →</b></a>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Kotlin Scripting Engine</h3>
-<div align="center">
-<p>Kotlin-based скриптовый движок как альтернатива JavaScript для Minecraft/Android с поддержкой mini-scripts для автоматизации.</p>
-<p>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
-</p>
-<a href="https://github.com/SparkyOfficial/Kotlin-Scripting-Engine"><b>GitHub →</b></a>
-</div>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td width="50%">
 <h3 align="center">KAuc</h3>
 <div align="center">
@@ -432,37 +381,12 @@
 <a href="https://github.com/SparkyOfficial/KAuc"><b>GitHub →</b></a>
 </div>
 </td>
-<td width="50%">
-<h3 align="center">JVectorDB</h3>
-<div align="center">
-<p>Высокопроизводительная встроенная векторная БД для JVM, идеальная для семантического поиска и ML-embedding хранилищ.</p>
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-</p>
-<a href="https://github.com/SparkyOfficial/JVectorDB"><b>GitHub →</b></a>
-</div>
-</td>
 </tr>
 </table>
 
 ---
 
-### 🌐 Экспериментальные & Специальные проекты
-<table>
-<tr>
-<td width="100%">
-<h3 align="center">WasmOS-Sparky</h3>
-<div align="center">
-<p>Специализированный unikernel, объединяющий минимальное ядро с WebAssembly runtime для безопасного, высокопроизводительного выполнения WASM-модулей.</p>
-<p>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C"/>
-</p>
-<a href="https://github.com/SparkyOfficial/WasmOS-Sparky"><b>Посмотреть на GitHub →</b></a>
-</div>
-</td>
-</tr>
-</table>
-
+### 🌐 Экспериментальные и Системные проекты
 <table>
 <tr>
 <td width="100%">
@@ -473,6 +397,21 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </p>
 <a href="https://github.com/SparkyOfficial/NeuroSync-OS-Sparky"><b>Посмотреть на GitHub →</b></a>
+</div>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%">
+<h3 align="center">WasmOS-Sparky</h3>
+<div align="center">
+<p>Специализированный unikernel, объединяющий минимальное ядро с WebAssembly runtime для безопасного, высокопроизводительного выполнения WASM-модулей.</p>
+<p>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C"/>
+</p>
+<a href="https://github.com/SparkyOfficial/WasmOS-Sparky"><b>Посмотреть на GitHub →</b></a>
 </div>
 </td>
 </tr>
@@ -496,231 +435,6 @@
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="100%">
-<h3 align="center">Big Crunch Simulation</h3>
-<div align="center">
-<p>C++ симуляция гипотетического сценария "Большого сжатия" Вселенной с физическими расчётами и визуализацией космологических параметров.</p>
-<p>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
-</p>
-<a href="https://github.com/SparkyOfficial/Big-Crunch-Simulation-XD"><b>Посмотреть на GitHub →</b></a>
-</div>
-</td>
-</tr>
-</table>
-
----
-
-### 🔧 Утилиты & Системные инструменты
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Sparky-SimpleHTTPServer</h3>
-<div align="center">
-<p>Базовый HTTP-сервер, написанный на C++, который отвечает на HTTP-запросы с нуля без использования фреймворков.</p>
-<p>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
-</p>
-<a href="https://github.com/SparkyOfficial/Sparky-SimpleHTTPServer"><b>GitHub →</b></a>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">CFastSort</h3>
-<div align="center">
-<p>Быстрая утилита на C++ для организации файлов в директории по расширениям с автоматическим созданием папок.</p>
-<p>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
-</p>
-<a href="https://github.com/SparkyOfficial/CFastSort"><b>GitHub →</b></a>
-</div>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">CMinecraft</h3>
-<div align="center">
-<p>Библиотека для интеграции native C/C++ библиотек в Minecraft плагины с поддержкой JNA и JNR бэкендов.</p>
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-</p>
-<a href="https://github.com/SparkyOfficial/CMinecraft"><b>GitHub →</b></a>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">Auto Git Commit</h3>
-<div align="center">
-<p>Утилита на Node.js для автоматического коммита всех изменений в текущей директории при выходе из программы.</p>
-<p>
-<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-</p>
-<a href="https://github.com/SparkyOfficial/auto-git-commit-Sparky"><b>GitHub →</b></a>
-</div>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Software Viber/Telegram Autoresponse</h3>
-<div align="center">
-<p>Приложение на C++ для автоматических ответов в мессенджерах на основе конфигурационного файла.</p>
-<p>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
-</p>
-<a href="https://github.com/SparkyOfficial/Software-Viber-Telegram-Autoresponse"><b>GitHub →</b></a>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">LKotlinDB</h3>
-<div align="center">
-<p>База данных, написанная на Kotlin с поддержкой различных операций и оптимизованной производительностью.</p>
-<p>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
-</p>
-<a href="https://github.com/SparkyOfficial/LKotlinDB"><b>GitHub →</b></a>
-</div>
-</td>
-</tr>
-</table>
-
----
-
-### 🎮 Дополнительные игровые проекты
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">epiCBattle</h3>
-<div align="center">
-<p>Боевая игра на C++ с использованием raylib, где игроки сражаются в динамичных боевых сценах.</p>
-<p>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/raylib-FFCC00?style=flat" alt="raylib"/>
-</p>
-<a href="https://github.com/SparkyOfficial/epiCBattle"><b>GitHub →</b></a>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">MazeGenerator</h3>
-<div align="center">
-<p>Генератор лабиринтов с функцией поиска пути, реализованный на C# с поддержкой различных алгоритмов.</p>
-<p>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"/>
-</p>
-<a href="https://github.com/SparkyOfficial/MazeGenerator-Sparky"><b>GitHub →</b></a>
-</div>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">OpenHousing</h3>
-<div align="center">
-<p>Open-source Minecraft плагин, вдохновленный режимом Housing на Hypixel для создания персональных жилищ.</p>
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-</p>
-<a href="https://github.com/SparkyOfficial/OpenHousing"><b>GitHub →</b></a>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">OpenCreative</h3>
-<div align="center">
-<p>PaperMC плагин, позволяющий игрокам создавать свои собственные миры и легко делиться ими с друзьями.</p>
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-</p>
-<a href="https://github.com/SparkyOfficial/OpenCreative"><b>GitHub →</b></a>
-</div>
-</td>
-</tr>
-</table>
-
----
-
-### 📚 Научные и образовательные проекты
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Sparky-Algebra</h3>
-<div align="center">
-<p>Постоянная коллекция алгебраических материалов, которая будет непрерывно обновляться для использования в будущих проектах GitHub.</p>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-</p>
-<a href="https://github.com/SparkyOfficial/Sparky-Algebra"><b>GitHub →</b></a>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">PyNexus</h3>
-<div align="center">
-<p>Універсальная научно-аналитическая библиотека для Python с поддержкой различных методов обработки и анализа данных.</p>
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-</p>
-<a href="https://github.com/SparkyOfficial/PyNexus"><b>GitHub →</b></a>
-</div>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Java_Task_1</h3>
-<div align="center">
-<p>Ежедневная Java задача, рубрика надоела.</p>
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-</p>
-<a href="https://github.com/SparkyOfficial/Java_Task_1"><b>GitHub →</b></a>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">DailyJava_13.10.2025</h3>
-<div align="center">
-<p>Ежедневная Java задача, рубрика надоела.</p>
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-</p>
-<a href="https://github.com/SparkyOfficial/DailyJava_13.10.2025"><b>GitHub →</b></a>
-</div>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">PolyCraft</h3>
-<div align="center">
-<p>Экспериментальный Minecraft плагин с поддержкой JavaScript.</p>
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-</p>
-<a href="https://github.com/SparkyOfficial/PolyCraft"><b>GitHub →</b></a>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">JFlexibleMath-Library</h3>
-<div align="center">
-<p>Библиотека, демонстрирующая использование гибких тел конструкторов (Flexible Constructor Bodies) из JEP 513 для Java 21+.</p>
-<p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java"/>
-</p>
-<a href="https://github.com/SparkyOfficial/JFlexibleMath-Library"><b>GitHub →</b></a>
-</div>
-</td>
-</tr>
-</table>
-
 ---
 
 ## 📊 GitHub Statistics
@@ -739,10 +453,9 @@
 
 ## 🎓 Что я ищу
 
-- 🚀 **Сложные challenge'и** в области distributed systems, game engines и high-performance computing
 - 🤝 **Open-source collaboration** на амбициозных проектах
 - 💼 **Возможности** для работы над backend-системами масштаба enterprise или инновационными gamedev проектами
-- 📚 **Общение** с разработчиками, которые рассказывают о своих технических решениях
+- 📚 **Общение** с разработчиками для обмена опытом и обсуждения технических решений
 
 ---
 
@@ -751,4 +464,3 @@
 **Telegram**: [@AndrewBudilnikov](https://t.me/AndrewBudilnikov)  
 **Discord**: sparkyofficial  
 **GitHub**: [SparkyOfficial](https://github.com/SparkyOfficial)
-
