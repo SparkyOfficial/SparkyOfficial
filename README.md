@@ -1,8 +1,8 @@
-# 👋 Привет, я Андрей (Sparky)
+# 👋 Привет, я Sparky
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-%40AndrewBudilnikov-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/AndrewBudilnikov)
+[![Telegram](https://img.shields.io/badge/Telegram-%40SparkyDelovoi-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/SparkyDelovoi)
 [![Discord](https://img.shields.io/badge/Discord-sparkyofficial-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/335352379373977601)
 [![GitHub](https://img.shields.io/badge/GitHub-SparkyOfficial-181717?style=for-the-badge&logo=github)](https://github.com/SparkyOfficial)
 
